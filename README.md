@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://my-gallery-git-master-martinien-fokoue.vercel.app">
+    <a href="https://my-gallery-git-master.martinien-fokoue.vercel.app">
       Demo
     </a>
     <span> | </span>
